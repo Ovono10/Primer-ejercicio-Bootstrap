@@ -1,0 +1,23 @@
+{
+  "name": "primer-ejercicio-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css sass/custom.css --content index.html -o sass/customReducido.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ovono10/Primer-ejercicio-Bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ovono10/Primer-ejercicio-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/Ovono10/Primer-ejercicio-Bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
